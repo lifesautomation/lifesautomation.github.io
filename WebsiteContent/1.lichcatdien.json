@@ -1,6 +1,6 @@
 {
   "image": "https://raw.githubusercontent.com/lifesautomation/lifesautomation.github.io/master/WebsiteContent/images/1.lichcatdien/logo.png",
-  "title": "(Mobile) Lịch Cắt Điện",
+  "title": "(Flutter) Lịch Cắt Điện",
   "content": "Lấy lịch cắt điện và tạo thông báo, tự động cập nhật thông báo dưới nền hằng ngày.",
   "up1Button": "Android",
   "up1Url": "https://play.google.com/store/apps/details?id=com.lifesautomation.lichcatdien",
