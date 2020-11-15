@@ -1,0 +1,17 @@
+{
+  "image": "https://raw.githubusercontent.com/lifesautomation/lifesautomation.github.io/master/WebsiteContent/.zaloweb/logo.png",
+  "title": "(Flutter) Zalo Web",
+  "content": "Đăng nhập một tài khoản zalo trên nhiều thiết bị trên nên tảng web",
+  "up1Button": "",
+  "up1Url": "",
+  "up2Button": "Android",
+  "up2Url": "https://play.google.com/store/apps/details?id=com.lifesautomation.zaloclone",
+  "up3Button": "",
+  "up3Url": "",
+  "down1Button": "",
+  "down1Url": "",
+  "down2Button": "",
+  "down2Url": "",
+  "down3Button": "",
+  "down3Url": ""
+}
