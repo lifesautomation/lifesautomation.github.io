@@ -28425,7 +28425,7 @@ return P.W($async$i7,r)},
 cu:function(a,b){var s,r,q,p,o=this
 P.dm(b)
 o.fx=b
-P.dm(b.a>600?o.fx=new P.au(600,b.b):b)
+P.dm(b.a>500?o.fx=new P.au(500,b.b):b)
 s=o.fx
 r=s.a
 q=o.k1=r/9
