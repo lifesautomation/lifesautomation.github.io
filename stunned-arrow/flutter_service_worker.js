@@ -4,10 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "c28bca237bf53e9d1d8702b89a0ebec1",
-"index.html": "a409221f5eff29c128c6845e58a5dc8b",
-"/": "a409221f5eff29c128c6845e58a5dc8b",
-"main.dart.js": "bb9eac8d895c86187ba38ac927a8ed6c",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
+"index.html": "28f7ab3c22d5b27b82be3104f45a6442",
+"/": "28f7ab3c22d5b27b82be3104f45a6442",
+"main.dart.js": "5373faf6b7f6f7bf55d16d85ba64ca3f",
 "icons/favicon-16x16.png": "66bf3b9c3ce1ca1920e260b1d5936324",
 "icons/favicon.ico": "add35dbd6adaa0432afe3c3cc5ed5611",
 "icons/apple-icon.png": "2da0bbb3f959ca5633f3b58d6f76f3c3",
@@ -36,14 +35,17 @@ const RESOURCES = {
 "icons/favicon-32x32.png": "4316db2279c75284183f8aff2948d5c3",
 "icons/ms-icon-70x70.png": "597b73ce99f15fc1de64a18ab970c6c1",
 "manifest.json": "e4e72766c6f17f20c8ebe0dd3511114d",
-"assets/AssetManifest.json": "28581e96b6fd59f01c1fba5bf57b5528",
+"assets/AssetManifest.json": "9f7df6857f51e88f4145b3137211451f",
 "assets/NOTICES": "0f841d6bbb50d8cabae3fd74f47d029e",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
 "assets/assets/images/background/bgImage.png": "ad3285768171a5e0bc1ce8a3f094e3c1",
-"assets/assets/images/fences/default.png": "189491d52cc7474ed4521d9e1acade35",
-"assets/assets/images/arrows/default.png": "8b03d999cc1d3037f5a8fc61207c08be",
-"assets/assets/audio/background/music.mp3": "a8ec13b6290ab849d2be1648353a36ae",
+"assets/assets/images/fences/fence01.png": "21cc43345c85ce81b3a6a4925c1391c8",
+"assets/assets/images/fences/fence02.png": "3e30972c6a4005dbb5489d0c591a298a",
+"assets/assets/images/fences/fence03.png": "189491d52cc7474ed4521d9e1acade35",
+"assets/assets/images/arrows/arrowDefault.png": "8b03d999cc1d3037f5a8fc61207c08be",
+"assets/assets/images/arrows/arrowPine.png": "a2acb0eef5306164bc6202143eb41df9",
+"assets/assets/audio/background/music.mp3": "e89ea67a93b9703b8f52164d1e5a99c2",
 "assets/assets/audio/sound/score.mp3": "cb8acf30cd2e44032e08f6195a08039f"
 };
 
