@@ -1,4 +1,4 @@
 {
-"latestVersionIos":"200",
-"latestVersionAndroid":"200"
+"latestVersionIOS":"200",
+"latestVersionANDROID":"200"
 }
