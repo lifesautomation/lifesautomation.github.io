@@ -1,3 +1,4 @@
-[Config]
-latestVersionIOS=200
-latestVersionANDROID=200
+{
+"latestVersionIos":"200",
+"latestVersionAndroid":"200",
+}
