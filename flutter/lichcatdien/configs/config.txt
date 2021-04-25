@@ -1,2 +1,3 @@
 [Config]
-latestVersion=200
+latestVersionIOS=200
+latestVersionANDROID=200
