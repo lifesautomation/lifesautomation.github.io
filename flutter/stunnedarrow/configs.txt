@@ -1,1 +1,5 @@
-
+{
+"isAllowAds":"false",
+"latestVersionANDROID":"104",
+"latestVersionIOS":"104",
+}
