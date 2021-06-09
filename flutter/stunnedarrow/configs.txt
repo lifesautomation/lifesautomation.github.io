@@ -3,6 +3,6 @@
 "isAllowAdsIOS":"true",
 "isUseTestAdsANDROID":"false",
 "isUseTestAdsIOS":"true",
-"latestVersionANDROID":"114",
+"latestVersionANDROID":"119",
 "latestVersionIOS":"114",
 }
