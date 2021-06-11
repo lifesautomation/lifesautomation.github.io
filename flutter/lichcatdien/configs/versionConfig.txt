@@ -1,5 +1,5 @@
 {
-"latestVersionIOS":"210",
+"latestVersionIOS":"215",
 "latestVersionANDROID":"215",
 "information":"Sửa lỗi\n",
 }
