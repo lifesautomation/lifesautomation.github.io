@@ -1,5 +1,5 @@
 {
-"isAllowAdsANDROID":"true",
+"isAllowAdsANDROID":"false",
 "isAllowAdsIOS":"false",
 "isUseTestAdsANDROID":"false",
 "isUseTestAdsIOS":"true",
