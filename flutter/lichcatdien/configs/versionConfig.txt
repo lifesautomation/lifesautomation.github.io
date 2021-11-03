@@ -1,5 +1,5 @@
 {
 "latestVersionIOS":"215",
-"latestVersionANDROID":"215",
-"information":"Sửa lỗi\n",
+"latestVersionANDROID":"300",
+"information":"- Sửa lỗi, cải thiện hiệu năng.\n- Nếu bạn thấy ứng dụng hữu ích, hãy Ủng hộ mình ở phiên bản mới nhé.",
 }
